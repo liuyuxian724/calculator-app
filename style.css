@@ -43,14 +43,14 @@ button {
     padding: 20px;
     font-size: 1.2em;
     border: none;
-    background: #67e6ff;
+    background: #11d7ff;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s;
 }
 
 button:hover {
-    background: #0080FF;
+    background: #6db6ff;
 }
 
 button:active {
@@ -58,7 +58,7 @@ button:active {
 }
 
 .equals {
-    background: #FF7575;
+    background: #f79494;
     color: white;
     grid-row: span 2;
 }
